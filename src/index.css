@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+@font-face {
+    font-family: wedding-font-vni;
+    src: url("./fonts/VfWedding04.ttf");
+}
+.breakBook {
+    background: linear-gradient(
+        to right,
+        transparent 0%,
+        rgba(0, 0, 0, 0.2) 46%,
+        rgba(0, 0, 0, 0.5) 49%,
+        rgba(0, 0, 0, 0.6) 50%,
+        rgba(0, 0, 0, 0.5) 51%,
+        rgba(0, 0, 0, 0.2) 52%,
+        transparent 100%
+      );
+}
