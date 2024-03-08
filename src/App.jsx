@@ -133,7 +133,7 @@ function App() {
                                                 TRÂN TRỌNG KÍNH MỜI
                                             </p>
                                             <p className="font-weddingFont text-red-700 text-2xl">
-                                                Baïn vaø gia ñình
+                                                Bạn và gia đình
                                             </p>
                                             <p>
                                                 Tới dự lễ thành hôn của 2 vợ
@@ -141,11 +141,11 @@ function App() {
                                             </p>
                                         </div>
                                         <div className="flex flex-col font-weddingFont text-red-700 justify-center items-center text-4xl mt-4 gap-2">
-                                            <p>Nguyeãn Vaên An</p>
+                                            <p>Nguyễn Văn An</p>
                                             <p className="text-black text-4xl">
                                                 &
                                             </p>
-                                            <p>Nguyeãn Thò Lan Anh</p>
+                                            <p>Nguyễn Thị Lan Anh </p>
                                         </div>
                                         <div className="flex mt-4 flex-col  gap-4">
                                             <p>
